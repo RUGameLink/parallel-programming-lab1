@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\worker\\.nuget\\packages\\": {}
+    "C:\\Users\\Администратор\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\worker\\source\\repos\\pp\\pp\\pp.csproj",
+      "projectUniqueName": "C:\\Users\\Администратор\\Source\\Repos\\parallel-programming-lab1\\pp\\pp.csproj",
       "projectName": "pp",
-      "projectPath": "C:\\Users\\worker\\source\\repos\\pp\\pp\\pp.csproj",
-      "packagesPath": "C:\\Users\\worker\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\worker\\source\\repos\\pp\\pp\\obj\\",
+      "projectPath": "C:\\Users\\Администратор\\Source\\Repos\\parallel-programming-lab1\\pp\\pp.csproj",
+      "packagesPath": "C:\\Users\\Администратор\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Администратор\\Source\\Repos\\parallel-programming-lab1\\pp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\worker\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Администратор\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -51,7 +51,8 @@
           "net47",
           "net471",
           "net472",
-          "net48"
+          "net48",
+          "net481"
         ],
         "assetTargetFallback": true,
         "warn": true,
@@ -60,7 +61,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.203\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
       }
     }
   }

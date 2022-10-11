@@ -1,0 +1,15 @@
+C:\Users\Администратор\Source\Repos\parallel-programming-lab1\pp\bin\Debug\net6.0\pp.exe
+C:\Users\Администратор\Source\Repos\parallel-programming-lab1\pp\bin\Debug\net6.0\pp.deps.json
+C:\Users\Администратор\Source\Repos\parallel-programming-lab1\pp\bin\Debug\net6.0\pp.runtimeconfig.json
+C:\Users\Администратор\Source\Repos\parallel-programming-lab1\pp\bin\Debug\net6.0\pp.dll
+C:\Users\Администратор\Source\Repos\parallel-programming-lab1\pp\bin\Debug\net6.0\pp.pdb
+C:\Users\Администратор\Source\Repos\parallel-programming-lab1\pp\obj\Debug\net6.0\pp.csproj.AssemblyReference.cache
+C:\Users\Администратор\Source\Repos\parallel-programming-lab1\pp\obj\Debug\net6.0\pp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Администратор\Source\Repos\parallel-programming-lab1\pp\obj\Debug\net6.0\pp.AssemblyInfoInputs.cache
+C:\Users\Администратор\Source\Repos\parallel-programming-lab1\pp\obj\Debug\net6.0\pp.AssemblyInfo.cs
+C:\Users\Администратор\Source\Repos\parallel-programming-lab1\pp\obj\Debug\net6.0\pp.csproj.CoreCompileInputs.cache
+C:\Users\Администратор\Source\Repos\parallel-programming-lab1\pp\obj\Debug\net6.0\pp.dll
+C:\Users\Администратор\Source\Repos\parallel-programming-lab1\pp\obj\Debug\net6.0\refint\pp.dll
+C:\Users\Администратор\Source\Repos\parallel-programming-lab1\pp\obj\Debug\net6.0\pp.pdb
+C:\Users\Администратор\Source\Repos\parallel-programming-lab1\pp\obj\Debug\net6.0\pp.genruntimeconfig.cache
+C:\Users\Администратор\Source\Repos\parallel-programming-lab1\pp\obj\Debug\net6.0\ref\pp.dll
