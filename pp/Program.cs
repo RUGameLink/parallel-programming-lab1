@@ -29,9 +29,10 @@
 
             threads[i] = new Thread(() => { returns[i] = (ThreadArray(array, i, threadCount)); });
             threads[i].Start();
-            threads[i].Join();
+            threads[i].Join(); // Этот join ждет исполнения i-й нити, т.е. цикл здесь приОСТАНАВЛИВЕТСЯ.
 
         }
+        // Здесь для join-нов делается спеццикл.
         int multEven = 1; 
         for(int i = 0; i < returns.Length; i++)
         {
