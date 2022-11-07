@@ -29,8 +29,11 @@
 
             threads[i] = new Thread(() => { returns[i] = (ThreadArray(array, i, threadCount)); });
             threads[i].Start();
-            threads[i].Join();
 
+        }
+        for (int i = 0; i < threads.Length; i++)
+        {
+            threads[i].Join();
         }
         int multEven = 1; 
         for(int i = 0; i < returns.Length; i++)
